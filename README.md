@@ -28,7 +28,14 @@ Here are some ideas to get you started:
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="420" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+  
+  </td>
+
+  <td width="50%" align="left">
   
 - 🌱 I’m currently learning **React Native**
 
@@ -43,12 +50,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Freelance programmer and university monitor**
   
 </td>
-<td width="80%" align="center">
-
-  <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
-
-  
-  </td>
 </tr>
 </table>
 
