@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hola 👋, Soy  Juan Pablo Bautista </h1>
-<h3 align="center">Estudiante en tecnologia en sistematizacion de datos | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Estudiante en tecnologia en sistematizacion de datos | Technology student in data systematization </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> 
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue" />
+  <img src="https://img.shields.io/badge/Focus On-Frontend%20Development-blue" />
   <img src="https://img.shields.io/badge/Languages-English-blue" /> 
   <img src="https://img.shields.io/badge/Languages-Spanish-blue" /> 
 
@@ -32,18 +32,20 @@ Here are some ideas to get you started:
   
 - 🌱 I’m currently learning **React Native**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **Universidad Distrital Francisco Jose de Caldas**
 
-- 💬 Ask me about **Web development | OOC**
+- 👯 I’m looking to collaborate on **Web development | Software development**
 
 - 📫 How to reach me **jbautistaclavijo@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
-
+- 🤔 I’m looking for help with **Node and SpringBoot**
+  
+- 🔭 I’m currently working on **Freelance programmer and university monitor**
+  
 </td>
-<td width="50%" align="center">
+<td width="80%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="1050" height="220" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
   
   </td>
@@ -99,26 +101,27 @@ Here are some ideas to get you started:
 <br>
 </p>
 
-## 🔥 My contribution streak
+## 🔥 Mis contribuciones / My contribution streak
 
 <p align="center">
-  <a href="https://github.com/smir45/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smir45&ring=cbe494#version3"/>
+  <a href="https://github.com/JuanBau514">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JuanBau514&theme=material&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&ring=cbe494" alt="GitHub Streak" />
   </a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/smir45?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/JuanBau514?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 <br/>
 
 ### ⚙️ &nbsp; GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/smir45">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smir45&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smir45&layout=compact&exclude_lang=java+r&theme=vue-light" />
+<a href="https://github.com/JuanBau514">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuanBau514&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanBau514&layout=donut&theme=vue-dark&bg" />
 </a>
 </p>
 
 <div align="center">
+
 
