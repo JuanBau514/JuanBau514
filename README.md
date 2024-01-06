@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hola 👋, Soy  Juan Pablo Bautista </h1>
 <h3 align="center">Estudiante en tecnologia en sistematizacion de datos | Technology student in data systematization </h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> 
+  <img src="https://komarev.com/ghpvc/?username=JuanBau514&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> 
   <img src="https://img.shields.io/badge/Focus On-Frontend%20Development-blue" />
   <img src="https://img.shields.io/badge/Languages-English-blue" /> 
   <img src="https://img.shields.io/badge/Languages-Spanish-blue" /> 
