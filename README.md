@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+  <img align="center" alt="Coding" width="1080" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hola 👋, Soy  Juan Pablo Bautista </h1>
 <h3 align="center">Estudiante en tecnologia en sistematizacion de datos | Technology student in data systematization </h3>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </td>
 <td width="80%" align="center">
 
-  <img align="center" alt="Coding" width="650" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
   
   </td>
