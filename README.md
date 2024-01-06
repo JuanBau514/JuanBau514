@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </td>
 <td width="80%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+  <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
   
   </td>
